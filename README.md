@@ -23,7 +23,7 @@ Dataset: [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic)
 
 ## How to Run
 1. Clone the repo  
-2. Install requirements: `pip install -r requirements.txt`  
+2. Install requirements
 3. Open the Jupyter notebook and run all cells  
 
 ## Author
