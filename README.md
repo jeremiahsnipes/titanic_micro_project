@@ -10,7 +10,7 @@ Two models were built:
 - Python  
 - TensorFlow / Keras  
 - scikit-learn  
-- pandas, numpy, matplotlib  
+- pandas, numpy, matplotlib, seaborn, plotly  
 
 ## Dataset
 Features: Age, Fare, Pclass, SibSp, Parch  
@@ -23,8 +23,8 @@ Dataset: [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic)
 
 ## How to Run
 1. Clone the repo  
-2. Install requirements
-3. Open the Jupyter notebook and run all cells  
+2. Install requirements: pip install -r requirements.txt
+3. Open the Jupyter notebook and run all cells: "Snipes_Micro-Project 4_Machine_Learning_Project_2_of_2.ipynb"
 
 ## Author
 Jeremiah Snipes – ANA500, National University
